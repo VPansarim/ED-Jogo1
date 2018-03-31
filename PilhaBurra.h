@@ -5,7 +5,5 @@ class PilhaBurra
         PilhaBurra();
         ~PilhaBurra();
 
-    protected:
-
     private:
 };
