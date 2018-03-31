@@ -2,10 +2,8 @@
 
 PilhaBurra::PilhaBurra()
 {
-    //ctor
 }
 
 PilhaBurra::~PilhaBurra()
 {
-    //dtor
 }

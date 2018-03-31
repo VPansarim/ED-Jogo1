@@ -2,10 +2,8 @@
 
 Pescador::Pescador()
 {
-    //ctor
 }
 
 Pescador::~Pescador()
 {
-    //dtor
 }

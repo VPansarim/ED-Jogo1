@@ -5,7 +5,5 @@ class Pescador
         Pescador();
         ~Pescador();
 
-    protected:
-
     private:
 };
